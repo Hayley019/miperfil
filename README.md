@@ -1,32 +1,36 @@
-# Hola :wave: Me llamo Adrian Dominguez Amador, bienvenido. 
+# Adrian Dominguez Amador 
 
 
-|lenguaje  |Habilidad|
-----------------------
-|    HTML  |  9/10   |
-----------------------
-|    CSS   |  8/10   |
-----------------------
-|JavaScript|  7/10   |
-----------------------
-|Bootstrap |   7/10  |
-----------------------
+##### *Fullstack Developer JR*
 
-## Informacion Relevante
-Hola, mi nombre es **Adrian Dominguez Amador**. Soy programador de software con capacitacion en Fullstack.
+## :computer: Experiencia
+**Programador Web** (Ene2023 - Presente)
 
-My Github: https://github.com/Hayley019
+* Experiencia Desarollo Web
+* Experiencia en JavaScript
+* Capacitacion POO de Oracle
+* Capacitacion WEB TEC Milenio
+* Desarollado de juegos
+* Manejo de C++
+* Manejo de Unity
+* Manejo de Python
+* Ingles C1
 
-## Intereses
-* Programacion
-* Videojuegos
-* Libros
+#####Enlace de proyectos:
+https://github.com/Hayley019
 
-## Comidas Favoritas
-1. Pizza
-2. Tacos
-3. Sushi
-4. Nachos
-5. Hamburgesas
+## :pushpin: Voluntariado
 
-![screen](https://www.creativefabrica.com/wp-content/uploads/2023/04/11/Watercolor-Cute-Baby-Dragon-Sleeping-png-Graphics-66866741-3-580x386.png)
+## :cd: Desarollador Indie de juegos 
+
+## :trophy: Certificaciones
+* Programacion POO Oracle
+* Concursante Hackaton 2022
+
+## :speech_balloon: Lenguajes
+* Español Nativo
+* Ingles Fluido (C1)
+* Frances Basico
+
+## :bust_in_silhouette: Educacion
+Instituto Tecnologico de Mexico Plantel Chihuahua campus 2
